@@ -1,7 +1,7 @@
 name: neumorphic_widget
 description: Adds Neumorphism look and feel for your cards, input forms, buttons etc. Highly customizable and easy to implement.
 version: 0.0.1
-homepage:
+homepage: https://github.com/minhho89/flutter_neumorphic_widget
 
 environment:
   sdk: ">=2.17.0-18.0.dev <3.0.0"

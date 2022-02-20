@@ -37,7 +37,7 @@ NeumorphicButton(
               child: Text('LOGIN'),
             ),
 ```
-`NeumorphicText`
+`NeumorphicTextInputField`
 
 ```dart
 NeumorphicTextInputField(
