@@ -11,7 +11,7 @@ To use this package, add 'neumorphic_widget' as a dependency in your `pubspec.ya
 
 ## Usage
 ### Screenshots
-<img src='neumorphic_pc1.gif' height='300em'> <img src='neumorphic_pc2.png' height='300em'> 
+<img src='neumorphic_pic1.gif' height='300em'> <img src='neumorphic_pic2.png' height='300em'> 
 ### Examples
 Here are small examples that show you how to use `NeumorphicCard`
 
